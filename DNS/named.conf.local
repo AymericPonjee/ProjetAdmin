@@ -1,5 +1,5 @@
-zone "" 
+zone ".ephec-ti.be" 
 {
     type master;
-    file "";
+    file "/etc/bind/.ephec-ti.be";
 }
