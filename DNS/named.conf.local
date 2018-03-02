@@ -1,5 +1,5 @@
-zone ".ephec-ti.be" 
+zone "vps517678.ephec-ti.be" 
 {
     type master;
-    file "/etc/bind/.ephec-ti.be";
+    file "/etc/bind/vps517678.ephec-ti.be";
 }
